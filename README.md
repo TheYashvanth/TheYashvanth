@@ -6,8 +6,7 @@
 -->
 
 
-<img src="<img width="1122" height="1402" alt="my image " src="https://github.com/user-attachments/assets/36dda092-f256-443e-9bdd-b1f4ecb1c940" />
-" width="180" height="180" style="border-radius: 50%; border: 4px solid #E53935; box-shadow: 0px 4px 15px rgba(229, 57, 53, 0.3);" alt="Profile Picture" />
+<img src="<img width="1122" height="1402" alt="my image " src="https://github.com/user-attachments/assets/36dda092-f256-443e-9bdd-b1f4ecb1c940" />" width="180" height="180" style="border-radius: 50%; border: 4px solid #E53935; box-shadow: 0px 4px 15px rgba(229, 57, 53, 0.3);" alt="Profile Picture" />
 
 <br>
 

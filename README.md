@@ -5,7 +5,7 @@
 ### <i>Python Developer | Problem Solver | Lifelong Learner</i>
 
 <!-- YOUR PROFILE PHOTO HERE -->
-<img src="assets/profile.png" width="180" height="180" style="border-radius: 50%; border: 4px solid #E53935; box-shadow: 0px 4px 15px rgba(229, 57, 53, 0.2);" alt="Profile Picture" />
+<img src="my image .jpeg" width="180" height="180" style="border-radius: 50%; border: 4px solid #E53935; box-shadow: 0px 4px 15px rgba(229, 57, 53, 0.2);" alt="Profile Picture" />
 <br>
 [![Open to Work](https://img.shields.io/badge/Open%20To%20Work-FF0000?style=for-the-badge&logo=rocket&logoColor=white)](mailto:naiduyashvanth4@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagothula-yashvanth-naidu-3416a1268/)

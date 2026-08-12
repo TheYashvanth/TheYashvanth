@@ -60,17 +60,17 @@ Currently, I am diving deep into Python and Data Science, learning every single 
 
 ---
 
-## ⚡ My Daily Developer Workflow
+## 🚀 What I'm Currently Building
 
-```text
-Morning   → Learn a new Python concept or library.
-Afternoon → Apply it by coding a small practice project.
-Evening   → Debug, refactor, and document what I learned.
-Night     → Plan tomorrow's learning goal.
+- 🐍 Strengthening my Python programming and problem-solving skills
+- 📊 Learning Data Science, Machine Learning, and data visualisation
+- 🤖 Building practical AI/ML projects to solve real-world problems
+- 🌐 Learning how to deploy Python and ML applications
+- 🧠 Exploring Generative AI and modern AI tools
+- 💻 Practising Git, GitHub, SQL, and software development workflows
 
 <div align="center">
-⚡ Open to opportunities. Ready to learn. Ready to build.
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=TheYashvanth&color=E53935&style=flat-square" alt="Profile Views" /> </p>
-© 2026 Nagothula Yashvanth Naidu
 
-</div> ```
+⚡ **Learning → Building → Improving → Repeating**
+
+</div>

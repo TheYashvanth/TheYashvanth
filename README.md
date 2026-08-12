@@ -5,7 +5,7 @@
 ### <i>Python Developer | Problem Solver | Lifelong Learner</i>
 
 <!-- YOUR PROFILE PHOTO HERE -->
-<img src="assets/profile.png" width="190" height="190" style="border-radius: 50%; border: 4px solid #E53935; box-shadow: 0px 4px 20px rgba(229, 57, 53, 0.3);" alt="Profile Picture" />
+<img src="my image .jpeg" width="190" height="190" style="border-radius: 50%; border: 4px solid #E53935; box-shadow: 0px 4px 20px rgba(229, 57, 53, 0.3);" alt="Profile Picture" />
 
 <br>
 

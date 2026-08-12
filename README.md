@@ -60,12 +60,13 @@ Currently, I am diving deep into Python and Data Science, learning every single 
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheYashvanth&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYashvanth&layout=compact&hide_border=true" width="48%" />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=TheYashvanth&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYashvanth&layout=compact&hide_border=true" alt="Top Languages" />
+
+</div>
 
 ## 📈 My GitHub Journey
 

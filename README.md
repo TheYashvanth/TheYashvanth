@@ -1,63 +1,49 @@
-<h1 align="center">Hi 👋, I'm Yashvanth</h1>
-<h3 align="center">A passionate developer from India</h3>
+# 👨‍💻 Nagothula Yashvanth Naidu
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheYashvanth&label=Profile%20views&color=0e75b6&style=flat" alt="TheYashvanth" />
-</p>
+> *"Build. Break. Debug. Rebuild."* 
+
+📍 **Data Science Enthusiast | Python Developer**  
+🎓 Fresh Graduate | 📚 Currently deep-diving into Data Science  
+💡 Passionate about coding, problem-solving, and data-driven decisions.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **exciting projects**
-- 🌱 I'm currently learning **Full Stack Development**
-- 👯 I'm looking to collaborate on **Open Source**
-- 💬 Ask me about **Web Development, Programming**
-- 📫 How to reach me: **naiduyashvanth4@gmail.com**
-- ⚡ Fun fact: **I love coding and building things!**
+I don't just write code—I challenge it. 
+
+As a fresh graduate, I spend my days building data science projects and my nights breaking them apart just to learn how to put them back together better. I believe that the best way to learn is through relentless iteration. Whether it's cleaning messy datasets, optimizing Python scripts, or automating tedious workflows, I am driven by the process of turning raw data into clear, actionable insights.
+
+I am currently looking for an **entry-level opportunity** where I can bring my relentless curiosity, fresh perspective, and strong work ethic to a forward-thinking data team. 
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-</p>
+- **Languages:** Python (Intermediate), SQL (Basics)
+- **Data Science:** Pandas, NumPy, Matplotlib, Scikit-learn (Learning)
+- **Tools:** Jupyter Notebooks, VS Code, Git/GitHub
+- **Soft Skills:** Critical thinking, Debugging, Rapid problem-solving
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheYashvanth&show_icons=true&theme=default" alt="TheYashvanth's GitHub stats" />
-</p>
+*(Replace these placeholders with your actual projects)*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYashvanth&layout=compact" alt="Top Languages" />
-</p>
+- **[Project Name 1]** – Built a Python script to scrape, clean, and visualize [specific data]. 
+- **[Project Name 2]** – Developed a basic predictive model using Scikit-learn to forecast [something].
+- **[Project Name 3]** – Automated a daily report generation process using Python and Pandas.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheYashvanth" alt="GitHub Streak" />
-</p>
+## 📫 Let's Connect
+
+I am always open to new challenges, collaborations, or just a good chat about data and code. Feel free to reach out!
+
+📧 **Email:** [naiduyashvanth4@gmail.com](mailto:naiduyashvanth4@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/nagothula-yashvanth-naidu-3416a1268/](https://www.linkedin.com/in/nagothula-yashvanth-naidu-3416a1268/)
 
 ---
 
-## 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/nagothula-yashvanth-naidu-3416a1268/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
----
-
-⭐️ From [Yashvanth](https://github.com/TheYashvanth)
+**⚡ *Currently hacking away at my next project. Talk soon!***

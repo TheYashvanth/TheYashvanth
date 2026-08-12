@@ -58,12 +58,20 @@ Currently, I am diving deep into Python and Data Science, learning every single 
 - ⏳ **Time Management:** I am disciplined, consistent, and self-motivated.
 - 🧪 **Adaptability:** I pick up new tools and technologies quickly.
 ---
+## 📊 GitHub Stats
 
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TheYashvanth&show_icons=true&theme=default&hide_border=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYashvanth&layout=compact&hide_border=true" height="165" /> </div>
-📈 My GitHub Journey
-<div align="center"> <img src="https://streak-stats.demolab.com/?user=TheYashvanth&hide_border=true" alt="GitHub Streak" /> </div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheYashvanth&show_icons=true&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYashvanth&layout=compact&hide_border=true" width="48%" />
+</p>
 
+---
+
+## 📈 My GitHub Journey
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=TheYashvanth&hide_border=true" width="70%" />
+</p>
 
 ## 🚀 What I'm Currently Building
 

@@ -72,3 +72,53 @@ Matplotlib • Seaborn • SQL • Streamlit (Learning)
 │ [✓] DATA VISUALIZATION DASHBOARDS            │
 │ [✓] GITHUB PORTFOLIO BUILD                   │
 └──────────────────────────────────────────────┘
+$ learning --current — LEARNING PROTOCOL
+text
+Data Science • Advanced Python • Scikit-learn
+Machine Learning • Pandas • Data Visualization
+Automation • Git Workflow • Clean Code Principles
+
+LEARNING MODE : ACTIVE
+SYSTEM FOCUS  : BUILD PRACTICAL, DEPLOYABLE DATA SOLUTIONS
+NEXT VECTOR   : ADVANCED ML + REAL-WORLD DATASETS
+$ philosophy --developer — DEVELOPER PHILOSOPHY
+text
+BUILD
+  ↓
+BREAK
+  ↓
+DEBUG
+  ↓
+LEARN
+  ↓
+REBUILD
+  ↓
+BUILD BETTER
+TURN RAW DATA INTO CLEAR ANSWERS.
+
+$ network --connect — NETWORK
+GITHUB	: https://github.com/YOUR_GITHUB_USERNAME
+LINKEDIN	: https://www.linkedin.com/in/nagothula-yashvanth-naidu-3416a1268/
+EMAIL	: naiduyashvanth4@gmail.com
+$ system_status — SYSTEM STATUS
+text
+╔══════════════════════════════════════════════╗
+║                                              ║
+║            SYSTEM STATUS: ONLINE             ║
+║                                              ║
+║       BUILD • BREAK • DEBUG • REBUILD        ║
+║                                              ║
+║              ACCESS GRANTED ✓                ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=FF0000&style=flat-square" alt="Profile Views" /> </p>
+© 2026 Nagothula Yashvanth Naidu
+
+text
+
+---
+
+### ⚠️ ONE LAST STEP:
+Find and replace `YOUR_GITHUB_USERNAME` **6 times** with your actual GitHub username (e.g., `naiduyashvanth`). 
+
+After that, paste this entire block into your `README.md`, commit it, and it will instantly go live on your GitHub profile!

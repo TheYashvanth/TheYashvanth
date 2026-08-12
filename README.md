@@ -67,3 +67,10 @@ Morning   → Learn a new Python concept or library.
 Afternoon → Apply it by coding a small practice project.
 Evening   → Debug, refactor, and document what I learned.
 Night     → Plan tomorrow's learning goal.
+
+<div align="center">
+⚡ Open to opportunities. Ready to learn. Ready to build.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=TheYashvanth&color=E53935&style=flat-square" alt="Profile Views" /> </p>
+© 2026 Nagothula Yashvanth Naidu
+
+</div> ```

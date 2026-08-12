@@ -36,7 +36,7 @@ Supervised Learning • Regression • Classification • Model Evaluation • F
 Workflow Automation • Data Pipelines • Git • GitHub • Jupyter Notebooks  
 
 **WEB & VISUALIZATION**  
-Matplotlib • Seaborn • Basic SQL • Streamlit (Learning)  
+Matplotlib • Seaborn • SQL • Streamlit (Learning)  
 
 ---
 
@@ -46,16 +46,23 @@ Matplotlib • Seaborn • Basic SQL • Streamlit (Learning)
 | :--- | :--- |
 | **DATA SCIENCE** | Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn |
 | **TOOLS** | Jupyter Notebook • VS Code • Git • GitHub |
-| **CLOUD / DB** | SQLite • Supabase (Basics) |
+| **CLOUD / DB** | SQL • Supabase (Basics) |
 
 ---
-$ github --statistics — GITHUB STATISTICS
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF0000&icon_color=FF0000" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0d1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" alt="GitHub Streak" width="48%" /> </p>
 
-$ contribution --activity — CONTRIBUTION ACTIVITY
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0d1117&hide_border=true&line=FF0000&color=FFFFFF" alt="Contribution Activity Graph" width="100%" /> </p>
-$ building --current — CURRENTLY BUILDING
-text
+### $ github --statistics — GITHUB STATISTICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF0000&icon_color=FF0000" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0d1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" alt="GitHub Streak" width="48%" />
+</p>
+
+---
+
+
+### $ building --current — CURRENTLY BUILDING
+
+```text
 ┌──────────────────────────────────────────────┐
 │ CURRENT BUILD QUEUE                          │
 ├──────────────────────────────────────────────┤
@@ -65,54 +72,3 @@ text
 │ [✓] DATA VISUALIZATION DASHBOARDS            │
 │ [✓] GITHUB PORTFOLIO BUILD                   │
 └──────────────────────────────────────────────┘
-$ learning --current — LEARNING PROTOCOL
-text
-Data Science • Advanced Python • Scikit-learn
-Machine Learning • Pandas • Data Visualization
-Automation • Git Workflow • Clean Code Principles
-
-LEARNING MODE : ACTIVE
-SYSTEM FOCUS  : BUILD PRACTICAL, DEPLOYABLE DATA SOLUTIONS
-NEXT VECTOR   : ADVANCED ML + REAL-WORLD DATASETS
-$ philosophy --developer — DEVELOPER PHILOSOPHY
-text
-BUILD
-  ↓
-BREAK
-  ↓
-DEBUG
-  ↓
-LEARN
-  ↓
-REBUILD
-  ↓
-BUILD BETTER
-TURN RAW DATA INTO CLEAR ANSWERS.
-
-$ network --connect — NETWORK
-GITHUB	: https://github.com/YOUR_GITHUB_USERNAME
-LINKEDIN	: https://www.linkedin.com/in/nagothula-yashvanth-naidu-3416a1268/
-EMAIL	: naiduyashvanth4@gmail.com
-$ system_status — SYSTEM STATUS
-text
-╔══════════════════════════════════════════════╗
-║                                              ║
-║            SYSTEM STATUS: ONLINE             ║
-║                                              ║
-║       BUILD • BREAK • DEBUG • REBUILD        ║
-║                                              ║
-║              ACCESS GRANTED ✓                ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=FF0000&style=flat-square" alt="Profile Views" /> </p>
-
----
-
-### 🚨 Action Items (Must do for this to work):
-1. **Replace `YOUR_GITHUB_USERNAME`** (there are 5 places: 2 in the stats, 1 in the graph, 1 in the network, and 1 at the bottom) with your actual GitHub username.
-2. **Add your actual project names** inside the `CURRENT BUILD QUEUE` and `CORE DOMAINS` sections if you have specific repos (like I saw you had `Recipe Recommendation System` or `Virtual Try-On AI` in the example—you can drop those in there!).
-3. **Profile Picture:** If you want your profile picture to show up like the example did, add an `assets/` folder to your repo, drop your photo in there named `profile.png`, and add this line at the very top:
-   ```markdown
-   <p align="center">
-     <img src="assets/profile.png" width="200" height="200" style="border-radius: 50%; border: 4px solid #FF0000;" />
-   </p>

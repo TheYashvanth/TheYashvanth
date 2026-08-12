@@ -59,31 +59,10 @@ Currently, I am diving deep into Python and Data Science, learning every single 
 - 🧪 **Adaptability:** I pick up new tools and technologies quickly.
 ---
 
-📬 Connect With Me
-I am open to work and actively looking for entry-level roles. If you are hiring, mentoring, or just want to connect, I would love to hear from you!
-
-📧 Email: naiduyashvanth4@gmail.com
-🔗 LinkedIn: linkedin.com/in/nagothula-yashvanth-naidu-3416a1268/
-💻 GitHub: github.com/TheYashvanth
-
-<div align="center">
-⚡ Open to opportunities. Ready to learn. Ready to build.
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=TheYashvanth&color=E53935&style=flat-square" alt="Profile Views" /> </p>
-© 2026 Nagothula Yashvanth Naidu
-
-</div> ```
-✅ What this does:
-Keeps your beautiful "Who I Am" and "What Drives Me" (I slightly shortened it as requested).
-
-Replaced "Daily Developer Workflow" with your new "🚀 What I'm Currently Building" terminal-style queue.
-
-Added your GitHub Stats exactly how you wanted them (repo stats + top languages side-by-side).
-
-Added your GitHub Journey Streak below the stats.
-
-All your contact links are updated and ready to go.
-
-Final Step: Just go to your repo, paste this in, commit, and you are 100% done! Let me know if you need any final color tweaks! 🔥
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TheYashvanth&show_icons=true&theme=default&hide_border=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYashvanth&layout=compact&hide_border=true" height="165" /> </div>
+📈 My GitHub Journey
+<div align="center"> <img src="https://streak-stats.demolab.com/?user=TheYashvanth&hide_border=true" alt="GitHub Streak" /> </div>
 
 
 ## 🚀 What I'm Currently Building

@@ -77,12 +77,6 @@ Currently, I am diving deep into Python and Data Science, learning every single 
 
 </div>
 
-## 📈 My GitHub Journey
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TheYashvanth&hide_border=true" width="70%" />
-</p>
-
 ## 🚀 What I'm Currently Building
 
 - 🐍 Strengthening my Python programming and problem-solving skills

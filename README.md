@@ -57,9 +57,23 @@ Currently, I am diving deep into Python and Data Science, learning every single 
 - 🗣️ **Communication:** I can explain technical concepts simply and clearly.
 - ⏳ **Time Management:** I am disciplined, consistent, and self-motivated.
 - 🧪 **Adaptability:** I pick up new tools and technologies quickly.
-
 ---
+## 📊 GitHub Stats
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TheYashvanth&show_icons=true&theme=default&hide_border=true" height="165">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYashvanth&layout=compact&hide_border=true" height="165">
+
+</div>
+## 📈 My GitHub Journey
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=TheYashvanth&hide_border=true)
+
+</div>
 ## 🚀 What I'm Currently Building
 
 - 🐍 Strengthening my Python programming and problem-solving skills

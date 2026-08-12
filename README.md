@@ -93,3 +93,10 @@ Currently, I am diving deep into Python and Data Science, learning every single 
 ⚡ **Learning → Building → Improving → Repeating**
 
 </div>
+
+<div align="center">
+⚡ Open to opportunities. Ready to learn. Ready to build.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=TheYashvanth&color=E53935&style=flat-square" alt="Profile Views" /> </p>
+© 2026 Nagothula Yashvanth Naidu
+
+</div> ```

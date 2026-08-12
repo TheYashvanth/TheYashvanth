@@ -1,69 +1,147 @@
-<div align="center">
-
-# 🔴 Nagothula Yashvanth Naidu
-
-### <i>Python Developer | Problem Solver | Future Engineer</i>
-
-<!-- YOUR PHOTO HERE -->
-<img src="assets/profile.png" width="190" height="190" style="border-radius: 50%; border: 4px solid #E53935; box-shadow: 0px 4px 20px rgba(229, 57, 53, 0.3);" alt="Profile Picture" />
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagothula-yashvanth-naidu-3416a1268/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naiduyashvanth4@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheYashvanth)
-
-</div>
-
----
-
-## 👨‍💻 Who I Am
-
-I am a fresh graduate with a relentless drive for coding and problem-solving. My learning philosophy is simple: **Build. Break. Debug. Rebuild.**
-
-I don't just read about code—I write it, break it, and fix it until it works. Whether it's optimizing a Python script, automating a manual task, or analyzing raw data, I thrive on turning complex problems into clean, working solutions.
-
-Currently, I am diving deep into Python and Data Science, learning every single day. I am actively looking for my **first entry-level opportunity** where I can contribute, learn from experienced teams, and grow into a professional engineer.
-
----
-
-## 🔥 What Drives Me
-
-- **Curiosity:** I ask "why" until I understand the root of the problem.
-- **Resilience:** I don't get frustrated when code breaks—I get excited to fix it.
-- **Growth:** I believe the best developers are the ones who never stop learning.
-
----
-
-## 🛠️ Tech Stack & Tools
+# TheYashvanth
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="assets/profile.png" width="200" height="200" style="border-radius: 10px; border: 4px solid #FF0000;" alt="Profile Picture" />
 </p>
 
-**Currently Learning:** Machine Learning, Scikit-learn, and Data Visualization.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=600&lines=PYTHON+DEVELOPER;PROBLEM+SOLVER;BUILD.+BREAK.+DEBUG.+REBUILD." alt="Typing SVG" />
+</p>
 
 ---
 
-## 🤝 Soft Skills
+### $ whoami — DEVELOPER PROFILE
 
-- 🧠 **Critical Thinking:** I break down complex problems into small, solvable pieces.
-- 🗣️ **Communication:** I can explain technical concepts simply and clearly.
-- ⏳ **Time Management:** I am disciplined, consistent, and self-motivated.
-- 🧪 **Adaptability:** I pick up new tools and technologies quickly.
+I am **Nagothula Yashvanth Naidu**, a fresh graduate currently deep-diving into Python and Data Science.
+
+My developer identity is built on relentless iteration. I don't just study code—I stress-test it. I spend my days building projects and my nights breaking them apart just to learn how to put them back together better. Whether it's optimizing Python scripts, automating workflows, or turning raw data into clear answers, I am driven by turning complex problems into clean, working solutions.
+
+| **NAME**       | : Nagothula Yashvanth Naidu |
+| :--- | :--- |
+| **ROLE**       | : Python Developer / Problem Solver |
+| **EDUCATION**  | : Fresh Graduate |
+| **FOCUS**      | : Python • Data Science • Automation • Problem Solving |
+| **STATUS**     | : BUILDING & OPEN TO WORK |
 
 ---
 
-## ⚡ My Daily Developer Workflow
+### $ core_domains — CORE DOMAINS
+
+**PYTHON DEVELOPMENT**  
+Python Programming • Scripting • Automation • API Integration • Debugging • Logic Building  
+
+**DATA SCIENCE & ANALYTICS**  
+Data Analysis • Data Cleaning • Visualization • Pandas • NumPy • Matplotlib  
+
+**MACHINE LEARNING**  
+Supervised Learning • Regression • Classification • Model Evaluation • Scikit-learn  
+
+**AUTOMATION & TOOLS**  
+Workflow Automation • Git • GitHub • VS Code • Jupyter Notebooks  
+
+**WEB & DATABASE**  
+Basic SQL • Streamlit (Learning) • REST APIs (Basics)  
+
+---
+
+### $ tech_stack — TECH MATRIX
+
+| **LANGUAGES** | Python • SQL (Basics) |
+| :--- | :--- |
+| **DATA SCIENCE** | Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn |
+| **TOOLS** | Jupyter Notebook • VS Code • Git • GitHub |
+| **CLOUD / DB** | SQLite • PostgreSQL (Basics) |
+
+---
+
+### $ pipeline --build — DEVELOPMENT PIPELINE
 
 ```text
-Morning   → Learn a new Python concept or library.
-Afternoon → Apply it by coding a small practice project.
-Evening   → Debug, refactor, and document what I learned.
-Night     → Plan tomorrow's learning goal.
+╔══════════╗
+║   IDEA   ║
+╚════╤═════╝
+     ↓
+╔══════════╗
+║  LEARN   ║
+╚════╤═════╝
+     ↓
+╔══════════╗
+║  BUILD   ║
+╚════╤═════╝
+     ↓
+╔══════════╗
+║  DEBUG   ║
+╚════╤═════╝
+     ↓
+╔══════════╗
+║ REFACTOR ║
+╚════╤═════╝
+     ↓
+╔══════════╗
+║  DEPLOY  ║
+╚══════════╝
+$ building --current — CURRENTLY BUILDING
+text
+┌──────────────────────────────────────────────┐
+│ CURRENT BUILD QUEUE                          │
+├──────────────────────────────────────────────┤
+│ [✓] PYTHON AUTOMATION SCRIPTS                │
+│ [✓] DATA CLEANING & ANALYSIS PROJECTS        │
+│ [✓] MACHINE LEARNING MODELS                  │
+│ [✓] GITHUB PORTFOLIO BUILD                   │
+│ [ ] OPEN-SOURCE CONTRIBUTIONS                │
+└──────────────────────────────────────────────┘
+$ learning --current — LEARNING PROTOCOL
+text
+Advanced Python • Pandas • NumPy • Scikit-learn
+Data Cleaning • Data Visualization • Git Workflow
+Clean Code Principles • Software Architecture Basics
+
+LEARNING MODE : ACTIVE
+SYSTEM FOCUS  : BUILD PRACTICAL, DEPLOYABLE SOLUTIONS
+NEXT VECTOR   : REAL-WORLD PROJECTS + OPEN SOURCE
+$ philosophy --developer — DEVELOPER PHILOSOPHY
+text
+BUILD
+  ↓
+BREAK
+  ↓
+DEBUG
+  ↓
+LEARN
+  ↓
+REBUILD
+  ↓
+BUILD BETTER
+TURN COMPLEX PROBLEMS INTO CLEAN SOLUTIONS.
+
+$ github --analytics — GITHUB INTELLIGENCE
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TheYashvanth&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF0000&icon_color=FF0000" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheYashvanth&theme=dark&hide_border=true&background=0d1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" alt="GitHub Streak" width="48%" /> </p><p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheYashvanth&theme=react-dark&bg_color=0d1117&hide_border=true&line=FF0000&color=FFFFFF" alt="Contribution Activity Graph" width="100%" /> </p>
+$ network --connect — NETWORK
+GITHUB	: https://github.com/TheYashvanth
+LINKEDIN	: https://www.linkedin.com/in/nagothula-yashvanth-naidu-3416a1268/
+EMAIL	: naiduyashvanth4@gmail.com
+$ system_status — SYSTEM STATUS
+text
+╔══════════════════════════════════════════════╗
+║                                              ║
+║            SYSTEM STATUS: ONLINE             ║
+║                                              ║
+║       BUILD • BREAK • DEBUG • REBUILD        ║
+║                                              ║
+║              ACCESS GRANTED ✓                ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=TheYashvanth&color=FF0000&style=flat-square" alt="Profile Views" /> </p>
+© 2026 Nagothula Yashvanth Naidu
+
+text
+
+---
+
+### ✅ Final Checklist (Do this once and you're done):
+1. **Photo:** Inside your GitHub repo, create a folder named `assets`, upload your photo, and rename it to `profile.png`. (The code already points to `assets/profile.png`).
+2. **Paste:** Copy the entire block above into your `README.md` file.
+3. **Commit:** Save and push to GitHub.
+
+That's it. Your profile will look exactly like your friend's system, but with your red theme and your details. Ready to go! 🔥

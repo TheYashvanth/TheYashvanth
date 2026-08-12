@@ -2,32 +2,33 @@
 
 # 🔴 Nagothula Yashvanth Naidu
 
-### <i>Python Developer | Problem Solver | Builder</i>
+### <i>Python Developer | Problem Solver | Lifelong Learner</i>
+-->
 
-<!-- YOUR PHOTO HERE -->
-<img src="assets/profile.png" width="180" height="180" style="border-radius: 50%; border: 4px solid #E53935; box-shadow: 0px 4px 15px rgba(229, 57, 53, 0.3);" alt="Profile Picture" />
+
+<img src="<img width="1122" height="1402" alt="my image " src="https://github.com/user-attachments/assets/36dda092-f256-443e-9bdd-b1f4ecb1c940" />
+" width="180" height="180" style="border-radius: 50%; border: 4px solid #E53935; box-shadow: 0px 4px 15px rgba(229, 57, 53, 0.3);" alt="Profile Picture" />
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagothula-yashvanth-naidu-3416a1268/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naiduyashvanth4@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Who I Am
 
-I am a fresh graduate with a passion for **Python**, **problem-solving**, and **building practical software**. 
+I am a fresh graduate with a relentless drive for coding and problem-solving. My learning philosophy is simple: **Build. Break. Debug. Rebuild.**
 
-My learning philosophy is simple: **Build. Break. Debug. Rebuild.** I don't just study code—I stress-test it. Whether it's optimizing Python scripts, automating manual workflows, or turning raw data into clear answers, I thrive on the grind of turning complex problems into clean, working solutions.
+I don't just read about code—I write it, break it, and fix it until it works. Whether it's optimizing a Python script or automating a manual task, I thrive on turning complex problems into clean, working solutions.
 
-🚀 **Currently:** Actively building projects, upskilling, and seeking an entry-level opportunity where I can contribute, learn, and grow fast.
+Currently, I am diving deep into Python and Data Science, learning every single day, and actively looking for my **first entry-level opportunity** where I can contribute, learn from experienced teams, and grow as a developer.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -35,56 +36,28 @@ My learning philosophy is simple: **Build. Break. Debug. Rebuild.** I don't just
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
-
-## 📂 Featured Projects
-
-*(Replace these placeholders with your actual GitHub repos)*
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🔥 **[Project Name 1]** | Built a Python script to clean, analyze, and visualize a real-world dataset. | Python, Pandas, Matplotlib |
-| 🤖 **[Project Name 2]** | Developed a machine learning model to predict outcomes based on historical data. | Python, Scikit-learn, NumPy |
-| ⚡ **[Project Name 3]** | Automated a daily data processing workflow, saving hours of manual effort. | Python, Git, Automation |
+**Currently Learning:** Machine Learning, Scikit-learn, and Data Visualization.
 
 ---
 
-## 📊 GitHub Insights
+## 🎯 What I'm Building Right Now
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=E53935&icon_color=E53935" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0d1117&ring=E53935&fire=E53935&currStreakLabel=E53935" alt="GitHub Streak" width="48%" />
-</p>
+Since I don't have repos on GitHub yet, I am focusing my time on:
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0d1117&hide_border=true&line=E53935&color=FFFFFF" alt="Contribution Graph" width="100%" />
-</p>
+- 🐍 Writing Python scripts to solve small, real-world problems.
+- 📊 Learning how to analyze and visualize data using Pandas & Matplotlib.
+- 🔍 Reading documentation, debugging code, and improving my coding logic.
+- 🚀 Preparing a strong portfolio to showcase my skills.
 
----
-
-## 📬 Let's Connect
-
-I am always open to new opportunities, collaborations, or just a good chat about Python and tech. Feel free to reach out!
-
-📧 **Email:** [naiduyashvanth4@gmail.com](mailto:naiduyashvanth4@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/nagothula-yashvanth-naidu-3416a1268/](https://www.linkedin.com/in/nagothula-yashvanth-naidu-3416a1268/)  
-💻 **GitHub:** [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+*(New projects are coming soon! This space will be updated as I build.)*
 
 ---
 
-<div align="center">
+## 🧠 My Developer Mindset
 
-### ⚡ *Building, breaking, and rebuilding every day.*
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=E53935&style=flat-square" alt="Profile Views" />
-</p>
-
-© 2026 Nagothula Yashvanth Naidu
-
-</div>
+```text
+BUILD → BREAK → DEBUG → LEARN → REBUILD → BUILD BETTER

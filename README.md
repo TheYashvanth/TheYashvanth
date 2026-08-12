@@ -1,49 +1,63 @@
-# 👨‍💻 Nagothula Yashvanth Naidu
+<div align="center">
 
-> *"Build. Break. Debug. Rebuild."* 
+# 🔴 Nagothula Yashvanth Naidu
 
-📍 **Data Science Enthusiast | Python Developer**  
-🎓 Fresh Graduate | 📚 Currently deep-diving into Data Science  
-💡 Passionate about coding, problem-solving, and data-driven decisions.
+### *Data Science Enthusiast | Python Developer | Problem Solver*
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagothula-yashvanth-naidu-3416a1268/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naiduyashvanth4@gmail.com)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Status](https://img.shields.io/badge/Status-Open%20to%20Work-FF0000?style=for-the-badge)](https://www.linkedin.com/in/nagothula-yashvanth-naidu-3416a1268/)
 
-## 🚀 About Me
-
-I don't just write code—I challenge it. 
-
-As a fresh graduate, I spend my days building data science projects and my nights breaking them apart just to learn how to put them back together better. I believe that the best way to learn is through relentless iteration. Whether it's cleaning messy datasets, optimizing Python scripts, or automating tedious workflows, I am driven by the process of turning raw data into clear, actionable insights.
-
-I am currently looking for an **entry-level opportunity** where I can bring my relentless curiosity, fresh perspective, and strong work ethic to a forward-thinking data team. 
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## ⚡ The Mindset
 
-- **Languages:** Python (Intermediate), SQL (Basics)
-- **Data Science:** Pandas, NumPy, Matplotlib, Scikit-learn (Learning)
-- **Tools:** Jupyter Notebooks, VS Code, Git/GitHub
-- **Soft Skills:** Critical thinking, Debugging, Rapid problem-solving
+> *"I don't just want a job. I want a problem to solve."*
 
----
+I am a fresh graduate with a relentless drive for coding and data science. My learning philosophy is simple: **Build. Break. Debug. Rebuild.** 
 
-## 📂 Featured Projects
+I don't just study algorithms—I stress-test them. Whether it's untangling messy datasets, optimizing Python scripts for efficiency, or automating manual workflows, I thrive on the grind of turning raw data into actionable insights. 
 
-*(Replace these placeholders with your actual projects)*
-
-- **[Project Name 1]** – Built a Python script to scrape, clean, and visualize [specific data]. 
-- **[Project Name 2]** – Developed a basic predictive model using Scikit-learn to forecast [something].
-- **[Project Name 3]** – Automated a daily report generation process using Python and Pandas.
+Currently deepening my expertise through a Data Science course while actively building real-world Python projects. I am actively seeking an **entry-level Data Science, Data Analyst, or Junior Python Developer** role where I can trade my fresh perspective for mentorship and deliver immediate value.
 
 ---
 
-## 📫 Let's Connect
 
-I am always open to new challenges, collaborations, or just a good chat about data and code. Feel free to reach out!
+## 🛠️ Tech Arsenal
+
+| **Category** | **Tools & Languages** |
+| :--- | :--- |
+| **Languages** | Python (Intermediate), SQL (Basics) |
+| **Data Science Stack** | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn |
+| **Development Tools** | Jupyter Notebooks, VS Code, Git, GitHub |
+| **Soft Skills** | Critical Thinking, Rapid Debugging, Self-Learning, Agile Mindset |
+
+---
+
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+---
+
+## 📬 Let's Connect
+
+I’m always open to new challenges, coffee chats, or discussions about Python, Data Science, and the future of AI. Feel free to reach out!
 
 📧 **Email:** [naiduyashvanth4@gmail.com](mailto:naiduyashvanth4@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/nagothula-yashvanth-naidu-3416a1268/](https://www.linkedin.com/in/nagothula-yashvanth-naidu-3416a1268/)
 
 ---
 
-**⚡ *Currently hacking away at my next project. Talk soon!***
+<div align="center">
+
+### ⚡ *Currently hacking away at my next project. Let's build something awesome.*
+
+</div>

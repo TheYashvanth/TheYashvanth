@@ -159,8 +159,10 @@ text
 
 <div align="center">
   
+  <!-- ✅ USING MY OWN VERCEL INSTANCE -->
   <img src="https://github-readme-stats-yashvanth1.vercel.app/api?username=TheYashvanth&show_icons=true&theme=default&hide_border=true" width="48%" alt="GitHub Stats" />
   
+  <!-- ✅ USING MY OWN VERCEL INSTANCE -->
   <img src="https://github-readme-stats-yashvanth1.vercel.app/api/top-langs/?username=TheYashvanth&layout=compact&hide_border=true" width="48%" alt="Top Languages" />
 
 </div>

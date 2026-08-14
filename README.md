@@ -158,19 +158,18 @@ text
 
 <div align="center">
   
-  <!-- FIXED: Using alternative working service -->
-  <img src="https://github-readme-stats.shion.dev/api?username=TheYashvanth&show_icons=true&theme=default&hide_border=true" width="48%" alt="GitHub Stats" />
+  <!-- 🎉 USING MY OWN CUSTOM VERCEL INSTANCE -->
+  <img src="https://your-project-name.vercel.app/api?username=TheYashvanth&show_icons=true&theme=default&hide_border=true" width="48%" alt="GitHub Stats" />
   
-  <!-- FIXED: Using alternative working service -->
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TheYashvanth&layout=compact&hide_border=true" width="48%" alt="Top Languages" />
+  <!-- 🎉 USING MY OWN CUSTOM VERCEL INSTANCE -->
+  <img src="https://your-project-name.vercel.app/api/top-langs/?username=TheYashvanth&layout=compact&hide_border=true" width="48%" alt="Top Languages" />
 
 </div>
 
 <br>
 
 <p align="center">
-  <!-- FIXED: Using alternative streak service -->
-  <img src="https://streak-stats.shion.dev/?user=TheYashvanth&hide_border=true&theme=default" width="70%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=TheYashvanth&hide_border=true&theme=default" width="70%" alt="GitHub Streak" />
 </p>
 
 ---

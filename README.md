@@ -106,6 +106,7 @@ Currently, I am diving deep into **Python, Machine Learning, and Full Stack Deve
 
 ### 🤖 AI-Based Email Anomaly Detection System
 Python • Scikit-learn • Pandas
+
 > Built a machine learning system using **Isolation Forest** to detect suspicious and anomalous emails. Performed data preprocessing, feature engineering, and model optimization, improving detection accuracy by approximately **15%**. Generated automated anomaly reports and visualizations, reducing manual analysis effort.
 
 ---
@@ -160,13 +161,15 @@ Java • MySQL • JDBC • Java Swing
 
 <div align="center">
   
-  <!-- YOUR CUSTOM URL -->
-  <img src="https://your-project-name.vercel.app/api?username=TheYashvanth&show_icons=true&theme=default&hide_border=true" width="48%" alt="GitHub Stats" />
+  <!-- ✅ FIXED: Using working public service -->
+  <img src="https://github-readme-stats.shion.dev/api?username=TheYashvanth&show_icons=true&theme=default&hide_border=true" width="48%" alt="GitHub Stats" />
   
-  <!-- YOUR CUSTOM URL -->
-  <img src="https://your-project-name.vercel.app/api/top-langs/?username=TheYashvanth&layout=compact&hide_border=true" width="48%" alt="Top Languages" />
+  <!-- ✅ FIXED: Using working public service -->
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TheYashvanth&layout=compact&hide_border=true" width="48%" alt="Top Languages" />
 
 </div>
+
+---
 
 ## 🚀 What I'm Currently Building
 

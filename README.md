@@ -160,11 +160,14 @@ Java • MySQL • JDBC • Java Swing
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=TheYashvanth&v=2026-08-14&show_icons=true&theme=default&hide_border=true" width="48%" alt="GitHub Stats" />
+  <!-- FIXED: Using alternative service -->
+  <img src="https://github-readme-stats.shion.dev/api?username=TheYashvanth&show_icons=true&theme=default&hide_border=true" width="48%" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYashvanth&layout=compact&hide_border=true" width="48%" alt="Top Languages" />
+  <!-- FIXED: Using alternative service -->
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TheYashvanth&layout=compact&hide_border=true" width="48%" alt="Top Languages" />
 
 </div>
+
 
 ---
 

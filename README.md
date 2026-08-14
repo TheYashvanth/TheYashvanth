@@ -118,8 +118,7 @@ Python • Flask • Pandas • NumPy • Backendless
 ---
 
 ### 🎓 Student Management System
-Java • MySQL • JDBC • Java Swing
-> Built a desktop application for managing student records with complete CRUD functionality. Designed a normalized MySQL database schema and integrated JDBC connectivity for efficient data management. Created an interactive GUI with form validation and exception handling, improving usability and reliability.
+Java • MySQL • JDBC • Java Swing> Built a desktop application for managing student records with complete CRUD functionality. Designed a normalized MySQL database schema and integrated JDBC connectivity for efficient data management. Created an interactive GUI with form validation and exception handling, improving usability and reliability.
 
 ---
 
@@ -161,11 +160,11 @@ Java • MySQL • JDBC • Java Swing
 
 <div align="center">
   
-  <!-- ✅ FIXED: Using working public service -->
-  <img src="https://github-readme-stats.shion.dev/api?username=TheYashvanth&show_icons=true&theme=default&hide_border=true" width="48%" alt="GitHub Stats" />
+  <!-- ✅ FIXED: Using working service with cache bypass -->
+  <img src="https://github-readme-stats.vercel.app/api?username=TheYashvanth&show_icons=true&theme=default&hide_border=true&v=2026-08-14" width="48%" alt="GitHub Stats" />
   
-  <!-- ✅ FIXED: Using working public service -->
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TheYashvanth&layout=compact&hide_border=true" width="48%" alt="Top Languages" />
+  <!-- ✅ FIXED: Using working service with cache bypass -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYashvanth&layout=compact&hide_border=true&v=2026-08-14" width="48%" alt="Top Languages" />
 
 </div>
 

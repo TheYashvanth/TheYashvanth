@@ -16,7 +16,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagothula-yashvanth-naidu-3416a1268/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naiduyashvanth4@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheYashvanth)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://your-portfolio-link.com)
 
 </div>
 
@@ -118,7 +117,8 @@ Python • Flask • Pandas • NumPy • Backendless
 ---
 
 ### 🎓 Student Management System
-Java • MySQL • JDBC • Java Swing> Built a desktop application for managing student records with complete CRUD functionality. Designed a normalized MySQL database schema and integrated JDBC connectivity for efficient data management. Created an interactive GUI with form validation and exception handling, improving usability and reliability.
+Java • MySQL • JDBC • Java Swing
+> Built a desktop application for managing student records with complete CRUD functionality. Designed a normalized MySQL database schema and integrated JDBC connectivity for efficient data management. Created an interactive GUI with form validation and exception handling, improving usability and reliability.
 
 ---
 
@@ -160,11 +160,11 @@ Java • MySQL • JDBC • Java Swing> Built a desktop application for managing
 
 <div align="center">
   
-  <!-- ✅ FIXED: Using working service with cache bypass -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TheYashvanth&show_icons=true&theme=default&hide_border=true&v=2026-08-14" width="48%" alt="GitHub Stats" />
+  <!-- ✅ FIXED: Using correct URL -->
+  <img src="https://github-readme-stats.vercel.app/api?username=TheYashvanth&show_icons=true&theme=default&hide_border=true" width="48%" alt="GitHub Stats" />
   
-  <!-- ✅ FIXED: Using working service with cache bypass -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYashvanth&layout=compact&hide_border=true&v=2026-08-14" width="48%" alt="Top Languages" />
+  <!-- ✅ FIXED: Using correct URL -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYashvanth&layout=compact&hide_border=true" width="48%" alt="Top Languages" />
 
 </div>
 

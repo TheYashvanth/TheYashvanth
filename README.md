@@ -154,26 +154,34 @@ text
 - 🧪 **Adaptability:** I pick up new tools and technologies quickly.
 
 ---
-
 ## 📊 My GitHub Journey
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TheYashvanth&hide_border=true&theme=default" width="70%" alt="GitHub Streak" />
-</p>
-
-<br>
 
 <div align="center">
   
-  <!-- ✅ FIXED: Added v=2 to bypass cache -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TheYashvanth&show_icons=true&theme=default&hide_border=true&v=2" width="48%" alt="GitHub Stats" />
+  <!-- FIXED: Using alternative working service -->
+  <img src="https://github-readme-stats.shion.dev/api?username=TheYashvanth&show_icons=true&theme=default&hide_border=true" width="48%" alt="GitHub Stats" />
   
-  <!-- ✅ Already working fine -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYashvanth&layout=compact&hide_border=true" width="48%" alt="Top Languages" />
+  <!-- FIXED: Using alternative working service -->
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TheYashvanth&layout=compact&hide_border=true" width="48%" alt="Top Languages" />
 
 </div>
 
+<br>
+
+<p align="center">
+  <!-- FIXED: Using alternative streak service -->
+  <img src="https://streak-stats.shion.dev/?user=TheYashvanth&hide_border=true&theme=default" width="70%" alt="GitHub Streak" />
+</p>
+
 ---
+
+### 📈 **GitHub Contribution Data**
+
+- **Total Stars Earned:** 0
+- **Total Commits (last year):** 41
+- **Total PRs:** 0
+- **Total Issues:** 0
+- **Contributed to (last year):** 0
 
 ## 🚀 What I'm Currently Building
 

@@ -154,6 +154,7 @@ text
 - 🧪 **Adaptability:** I pick up new tools and technologies quickly.
 
 ---
+
 ## 📊 My GitHub Journey
 
 <div align="center">
@@ -173,14 +174,6 @@ text
 </p>
 
 ---
-
-### 📈 **GitHub Contribution Data**
-
-- **Total Stars Earned:** 0
-- **Total Commits (last year):** 41
-- **Total PRs:** 0
-- **Total Issues:** 0
-- **Contributed to (last year):** 0
 
 ## 🚀 What I'm Currently Building
 

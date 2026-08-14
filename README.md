@@ -154,6 +154,7 @@ text
 - 🧪 **Adaptability:** I pick up new tools and technologies quickly.
 
 ---
+
 ## 📊 My GitHub Journey
 
 <div align="center">

@@ -106,18 +106,23 @@ Currently, I am diving deep into **Python, Machine Learning, and Full Stack Deve
 ### 🤖 AI-Based Email Anomaly Detection System
 Python • Scikit-learn • Pandas
 
+text
 > Built a machine learning system using **Isolation Forest** to detect suspicious and anomalous emails. Performed data preprocessing, feature engineering, and model optimization, improving detection accuracy by approximately **15%**. Generated automated anomaly reports and visualizations, reducing manual analysis effort.
 
 ---
 
 ### 🍽️ Personalized Recipe Recommendation System
 Python • Flask • Pandas • NumPy • Backendless
+
+text
 > Developed a Flask web application providing personalized meal suggestions based on dietary goals, preferences, and allergies. Integrated with Backendless for secure authentication, profile management, and data persistence. Implemented calorie calculations and automated daily, weekly, and monthly nutrition reports.
 
 ---
 
 ### 🎓 Student Management System
 Java • MySQL • JDBC • Java Swing
+
+text
 > Built a desktop application for managing student records with complete CRUD functionality. Designed a normalized MySQL database schema and integrated JDBC connectivity for efficient data management. Created an interactive GUI with form validation and exception handling, improving usability and reliability.
 
 ---
@@ -160,11 +165,11 @@ Java • MySQL • JDBC • Java Swing
 
 <div align="center">
   
-  <!-- ✅ FIXED: Using correct URL -->
-  <img src="https://github-readme-stats.shion.dev/api?username=TheYashvanth&show_icons=true&theme=default&hide_border=true" width="48%" alt="GitHub Stats" />
+  <!-- ✅ FIXED: Added v=2 to bypass cache -->
+  <img src="https://github-readme-stats.vercel.app/api?username=TheYashvanth&show_icons=true&theme=default&hide_border=true&v=2" width="48%" alt="GitHub Stats" />
   
-  <!-- ✅ FIXED: Using correct URL -->
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TheYashvanth&layout=compact&hide_border=true" width="48%" alt="Top Languages" />
+  <!-- ✅ Already working fine -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYashvanth&layout=compact&hide_border=true" width="48%" alt="Top Languages" />
 
 </div>
 

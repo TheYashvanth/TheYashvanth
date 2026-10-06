@@ -158,13 +158,8 @@ text
 ## 📊 My GitHub Journey
 
 <div align="center">
-  
-  <!-- ✅ USING MY OWN VERCEL INSTANCE -->
-  <img src="https://github-readme-stats-yashvanth1.vercel.app/api?username=TheYashvanth&show_icons=true&theme=default&hide_border=true" width="48%" alt="GitHub Stats" />
-  
-  <!-- ✅ USING MY OWN VERCEL INSTANCE -->
-  <img src="https://github-readme-stats-yashvanth1.vercel.app/api/top-langs/?username=TheYashvanth&layout=compact&hide_border=true" width="48%" alt="Top Languages" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=TheYashvanth&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=00D9FF&icon_color=BD00FF&text_color=72F1B8" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYashvanth&layout=compact&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=00D9FF&text_color=72F1B8" width="48%" alt="Top Languages" />
 </div>
 
 <br>

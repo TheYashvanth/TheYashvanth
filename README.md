@@ -4,10 +4,6 @@
 
 ### <i>Python Developer | AI/ML Enthusiast | Problem Solver | Lifelong Learner</i>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🎯_Focus-Machine_Learning_%2B_Flask-00D9FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📅_Available-Immediately-72F1B8?style=for-the-badge" />
-</p>
 
 <!-- YOUR PROFILE PHOTO HERE -->
 <img src="my image .jpeg" width="180" height="180" style="border-radius: 50%; border: 4px solid #E53935; box-shadow: 0px 4px 20px rgba(229, 57, 53, 0.3);" alt="Profile Picture" />

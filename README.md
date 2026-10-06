@@ -6,7 +6,7 @@
 
 
 <!-- YOUR PROFILE PHOTO HERE -->
-<img src="my image .jpeg" width="180" height="180" style="border-radius: 50%; border: 4px solid #E53935; box-shadow: 0px 4px 20px rgba(229, 57, 53, 0.3);" alt="Profile Picture" /><img src="my image .jpeg" width="180" height="180" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0px 4px 20px rgba(0, 217, 255, 0.4);" alt="Profile Picture" />
+<img src="my image .jpeg" width="180" height="180" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0px 4px 20px rgba(0, 217, 255, 0.4);" alt="Profile Picture" />
 <br>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TheYashvanth&theme=synthwave&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
